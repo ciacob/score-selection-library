@@ -19,3 +19,6 @@ bin-release/
 
 /.vscode
 /asconfig.json
+
+.vscode/
+asconfig.json
